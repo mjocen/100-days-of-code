@@ -16,3 +16,12 @@
 
 **Link to work:** [Single States](https://github.com/mjocen/uni-tasks/tree/master/optimisation-constraint-pg/single-state)
 **Link to website:** [Josie bytes](https://jocenp.com/)
+
+### Day 2: December 9, 2019
+
+**Today's Progress**: Population-based Heuristics.
+
+**Thoughts:** This implementation is what I enjoyed more compared to Single-state heuristics. The challenge in replicating how our genetic makeup is formed was exciting. Compared to the single states models, GA gave a more optimal solution to the knapsack problem.
+
+**Link to work:** [Population Based](https://github.com/mjocen/uni-tasks/tree/master/optimisation-constraint-pg/single-state)
+**Link to website:** [Josie bytes](https://jocenp.com/)
