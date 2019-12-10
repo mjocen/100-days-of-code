@@ -24,4 +24,12 @@
 **Thoughts:** This implementation is what I enjoyed more compared to Single-state heuristics. The challenge in replicating how our genetic makeup is formed was exciting. Compared to the single states models, GA gave a more optimal solution to the knapsack problem.
 
 **Link to work:** [Population Based](https://github.com/mjocen/uni-tasks/tree/master/optimisation-constraint-pg/single-state)
-**Link to website:** [Josie bytes](https://jocenp.com/)
+**Link to website:** [Josie bytes](https://jocenp.com/population-based-heuristics/)
+
+### Day 3: December 10, 2019
+
+**Today's Progress**: Load distribution optimisation task.
+
+**Thoughts:** This implementation was a challenge more so on the mathemtical side of it rather than the implementation of it. Going deeper into computer science, I reckon that having a strong maths understanding is essential. 
+
+**Link to work:** [Load Distribution](https://github.com/mjocen/uni-tasks/tree/master/optimisation-constraint-pg/load-distribution)
