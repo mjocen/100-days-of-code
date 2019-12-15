@@ -33,3 +33,48 @@
 **Thoughts:** This implementation was a challenge more so on the mathemtical side of it rather than the implementation of it. Going deeper into computer science, I reckon that having a strong maths understanding is essential. 
 
 **Link to work:** [Load Distribution](https://github.com/mjocen/uni-tasks/tree/master/optimisation-constraint-pg/load-distribution)
+
+
+### Day 4: December 11, 2019
+
+**Today's Progress**: List manipulation on Javascript.
+
+**Thoughts:** This was an easy task as I have previously coded in Python. Although, the last question was worded weirdly that I had trouble working on it.
+
+**Link to work:** [Assignment 2](https://github.com/mjocen/uni-tasks/blob/master/learning-js/section2-assignment/assign.js)
+
+
+### Day 5: December 12, 2019
+
+**Today's Progress**: List and string manipulation on Javascript.
+
+**Thoughts:** Learning that function can be set to a variable made me excited. It was handy but still needs lots of practice for it.
+
+**Link to work:** [Assignment 3](https://github.com/mjocen/uni-tasks/blob/master/learning-js/section3-assignment/assign.js)
+
+
+### Day 6: December 13, 2019
+
+**Today's Progress**: Project Proposal.
+
+**Thoughts:** Had a uni assessment due today so worked on that one and described the features we will be adding to an iOS app. No code done but explored UX and known bugs from previous implementation.
+
+**Link to work:** *Can't be shown since the repo's private*
+
+
+### Day 7: December 14, 2019
+
+**Today's Progress**: OOP in JS.
+
+**Thoughts:** I enjoy writing OOPrograms so this assignment was pretty easy to deal with. The constructor is similar to writing a function, much different than writing them in C#. I didn't mind it though.
+
+**Link to work:** [Assignment 4](https://github.com/mjocen/uni-tasks/blob/master/learning-js/section4-assignment/assign.js)
+
+
+### Day 8: December 15 2019
+
+**Today's Progress**: Project J.
+
+**Thoughts:** A friend and I will be working on a project together for materials request program. We will be using VueJS for front end, Python and MySQL for backend.
+
+**Link to work:** *Can't be shown since the repo's private*
