@@ -123,3 +123,19 @@
 **Thoughts:** This was asked from me from a friend and I was keen to help. It was fun as iteration over Dictionary-like variables and iterators. I updated my previous code assignment to test this iteration. It is becoming a struggle to continue this as the holidays are coming but hoping to build the habit.
 
 **Link to work:** [Assignment 3](https://github.com/mjocen/uni-tasks/blob/master/learning-js/section3-assignment/assign.js)
+
+
+### Day 14: December 21 2019
+
+**Today's Progress**: Missed this day.
+
+**Thoughts:** Wasn't able to do some coding but had reflection on what are the things I've done for the year.
+
+
+### Day 15: December 22 2019
+
+**Today's Progress**: Codewars.
+
+**Thoughts:** I've found this site before but had not participated in any of the practices in it. I was able to levelup to 7 Kyu (1 level above starting). I'm mostly focusing on Python for this one but hoping to move with JS/C#/C++. Lots of option actually.
+
+**Link to work:** [Codewars Profile](https://www.codewars.com/users/mjocen)
